@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/entry/entry.iml" filepath="$PROJECT_DIR$/.idea/modules/entry/entry.iml" group="hdhassignment/entry" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hdhassignment.iml" filepath="$PROJECT_DIR$/.idea/modules/hdhassignment.iml" group="hdhassignment" />
+    </modules>
+  </component>
+</project>
